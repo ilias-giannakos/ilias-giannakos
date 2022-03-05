@@ -1,2 +1,2 @@
-👋 Hey there, I’m Ilias giannakos.
-I'm currently studying my MSc in Data Science.
+Student at MSc in Data Science.
+Data Scientist at PPC.SA (ΔΕΗ)
